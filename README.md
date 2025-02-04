@@ -1,4 +1,4 @@
-# HrEmployee
+# HrEmployee  || Power BI Visualization Project
 
 HR EMPLOYEE Dashboard – Power BI Visualization Project
 
