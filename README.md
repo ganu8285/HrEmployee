@@ -1,43 +1,33 @@
-# HrEmployee  || Power BI Visualization Project
-
-HR EMPLOYEE Dashboard – Power BI Visualization Project
-
+HR Employee Dashboard – Power BI Visualization Project
 📌 Project Overview
-This project analyzes HR employee data using Power BI. It provides interactive visualizations to explore key metrics, employee demographics, engagement trends, and geographic distribution. The goal was to enhance my skills in data storytelling, Power BI techniques, and effective data presentation.
+This project analyzes HR employee data using Power BI to create interactive visualizations. It helps explore key metrics, employee demographics, engagement trends, and geographic insights. The goal is to improve data storytelling, Power BI skills, and effective data presentation.
 
-📊 Key Features of the Dashboard
-🔹 Three Key Metrics Cards
+📊 Key Features
+🔹 Three Main Metrics:
 
-Verified Users: Total number of verified employees in the dataset.
-Verified Users' Followers: Total number of followers of verified employees.
-Total Tweets: Overall count of tweets related to HR employees.
+Verified Users – Total number of verified employees.
+Followers of Verified Users – Total followers of verified employees.
+Total Tweets – Number of tweets related to HR employees.
+🔹 Data Filters (Slicers):
 
-🔹 Two Slicers for Data Filtering
-
-Account Creation Year: Filter data based on when employee accounts were created.
-Verified Users: Filter between verified and non-verified employees.
-
-
-📈 Insights Gained
-
-Verified Users: Significant impact on employee engagement and activity.
-Geographic Trends: Certain regions showed higher activity, indicating stronger engagement.
-Retweet Analysis: Identified popular locations and keywords.
-Employee Demographics: The animated graph highlighted the correlation between employee followers and their locations.
-🛠 Tools and Techniques Used
-
-Power BI: For creating interactive dashboards.
-Data Storytelling: Presenting insights in an engaging and meaningful way.
-Data Cleaning & Preparation: Ensuring accurate and relevant visualizations.
+Account Creation Year – Filter data by when employee accounts were created.
+Verified Status – View verified or non-verified employees separately.
+📈 Key Insights
+Verified Users are more engaged and active.
+Geographic Trends show higher engagement in specific regions.
+Retweet Analysis reveals popular locations and keywords.
+Employee Demographics highlight the relationship between followers and locations.
+🛠 Tools & Techniques Used
+Power BI – Creating interactive dashboards.
+Data Storytelling – Presenting insights in a meaningful way.
+Data Cleaning & Preparation – Ensuring accuracy in visualizations.
 🖥 How to Use the Dashboard
-
-Filters: Use slicers to filter by account creation year and verified users.
-Drill-Down: Click on the donut chart to explore distribution by location.
-Interactivity: Hover over graphs/maps for detailed insights.
-Animation: Watch trends in employee followers vs. location over time.
+Filters: Use slicers to filter by year or verified users.
+Drill-Down: Click on the donut chart to see data by location.
+Interactivity: Hover over graphs/maps for details.
+Animation: Watch trends in employee followers over time.
 🚀 Getting Started
-
-Download the Power BI file from this repository.
+Download the Power BI file from the repository.
 Open the file in Power BI Desktop.
-Explore the interactive visualizations and insights.
-⭐ If you like this project, don’t forget to star the repository!
+Explore the visualizations and insights.
+⭐ Like this project? Don’t forget to star the repository!
